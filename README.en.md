@@ -107,7 +107,7 @@ Every plan includes the store, the chat bot, 1 GB of database and 1 GB for photo
 
 ## 🚀 How to open a store: three steps
 
-<img src="assets/en/how-it-works.png" alt="Three steps to launch a BOTFARM store: open the store and fill in the details, add products, take orders" width="100%">
+<img src="assets/en/howitworks.png" alt="Three steps to launch a BOTFARM store: open the store and fill in the details, add products, take orders" width="100%">
 
 1. **Open the store.** Pick a plan and fill in the details: company data, the boilerplate documents, page design.
 2. **Add goods or services.** Upload photos, descriptions and prices.
