@@ -1,4 +1,4 @@
-<img src="assets/hero.png" alt="BOTFARM — online store with a chat bot in the MAX messenger: no sales commission, YooKassa and Yandex Pay checkout, from 1,590 ₽ per month" width="100%">
+<img src="assets/en/hero.png" alt="BOTFARM — online store with a chat bot in the MAX messenger: no sales commission, YooKassa and Yandex Pay checkout, from 1,590 ₽ per month" width="100%">
 
 # 🛍️ BOTFARM — online store with a chat bot in MAX
 
@@ -48,7 +48,7 @@ A small seller usually picks between a marketplace and a website of their own. T
 - 📄 **A site without the mandatory legal pages.** The store ships with boilerplate forms: terms of use, personal data policy, cookie policy.
 - 📣 **A single sales channel.** The bot link goes on business cards, banners, product packaging, social profiles — contacts land in one base.
 
-<img src="assets/channels.png" alt="Diagram: one BOTFARM catalog powers both the store website and the MAX chat bot, while orders, payments and buyer contacts collect in a single base" width="100%">
+<img src="assets/en/channels.png" alt="Diagram: one BOTFARM catalog powers both the store website and the MAX chat bot, while orders, payments and buyer contacts collect in a single base" width="100%">
 
 ---
 
@@ -107,7 +107,7 @@ Every plan includes the store, the chat bot, 1 GB of database and 1 GB for photo
 
 ## 🚀 How to open a store: three steps
 
-<img src="assets/how-it-works.png" alt="Three steps to launch a BOTFARM store: open the store and fill in the details, add products, take orders" width="100%">
+<img src="assets/en/how-it-works.png" alt="Three steps to launch a BOTFARM store: open the store and fill in the details, add products, take orders" width="100%">
 
 1. **Open the store.** Pick a plan and fill in the details: company data, the boilerplate documents, page design.
 2. **Add goods or services.** Upload photos, descriptions and prices.
